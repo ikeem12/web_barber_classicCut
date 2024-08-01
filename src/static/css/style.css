@@ -1,0 +1,23 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+/*******************************
+******** Style Login ***********
+********************************/
+.container_logoLogin{
+  margin-top: -50px;
+}
+
+.logo_login{
+  height: 250px;
+}
+
+.container_inputs{
+  margin-top: -20px;
+}
+
+
