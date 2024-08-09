@@ -1,6 +1,0 @@
-MYSQL_HOST = 'localhost'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'johanPra12'
-MYSQL_DB = 'barber_classicut'
-MYSQL_CURSORCLASS = 'DictCursor'
-SECRET_KEY = 'super_secret_key'
